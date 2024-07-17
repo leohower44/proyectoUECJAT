@@ -1,0 +1,9 @@
+body{
+    
+    background-image: linear-gradient(rgba(5, 7, 12, 0.459),rgba(5, 7, 12, 0.459)),
+    url(construccion.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
